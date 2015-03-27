@@ -6,6 +6,8 @@
 #include "StdAfx.h"
 #include "CheckWinVer.h"
 
+// ƒeƒXƒg‘‚«‚İ on 2015/03/28 for git svn test
+
 
 // ************************************************************
 // WindowsNT Œn—ñ‚Æ Windows 95 Œn—ñ‚Ì”»’è
